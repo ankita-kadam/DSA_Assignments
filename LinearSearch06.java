@@ -3,7 +3,7 @@ package com.sunbeam;
 //not found, return -1.
 import java.util.Arrays;
 import java.util.Scanner;
-
+//
 public class LinearSearch06 {
 
 	public static int linearSearch(int arr[],int size,int key,int pos) {
