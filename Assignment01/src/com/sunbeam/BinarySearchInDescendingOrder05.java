@@ -1,5 +1,5 @@
 package com.sunbeam;
-
+//
 import java.util.Scanner;
 
 public class BinarySearchInDescendingOrder05 {
