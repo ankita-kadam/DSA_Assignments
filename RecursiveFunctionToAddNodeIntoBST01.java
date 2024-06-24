@@ -1,4 +1,4 @@
-
+//Write recursive function to add node into bst
 public class RecursiveFunctionToAddNodeIntoBST {
 
 	class Node{
